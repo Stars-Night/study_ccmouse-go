@@ -1,4 +1,4 @@
-package fetcher
+package fetcher // Package fetcher 爬虫抓取包
 
 import (
 	"fmt"
