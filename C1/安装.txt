@@ -1,0 +1,15 @@
+【Go 安装包下载】
+https://studygolang.com/dl
+选择windows
+
+【IDE】
+IDE(集成开发环境)选择Goland
+
+【GOPATH】
+GO的工作目录
+比如项目路径为 E:\study_workspace\go_workspace\go\src\ccmouse-go
+则GOPATH 为 E:\study_workspace\go_workspace\go
+
+【GOROOT】
+GO执行文件的路径
+
