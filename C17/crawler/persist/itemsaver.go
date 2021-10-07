@@ -4,8 +4,9 @@ import (
 	"ccmouse-go/C17/crawler/engine"
 	"context"
 	"errors"
-	"gopkg.in/olivere/elastic.v5"
 	"log"
+
+	"gopkg.in/olivere/elastic.v5"
 )
 
 func ItemSaver(index string) (chan engine.Item, error) {
